@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+qfin_project_data/
+*.parquet
+*.csv
+logs/
+.env
